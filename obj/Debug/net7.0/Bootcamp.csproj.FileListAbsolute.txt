@@ -1,0 +1,15 @@
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\bin\Debug\net7.0\Bootcamp.exe
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\bin\Debug\net7.0\Bootcamp.deps.json
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\bin\Debug\net7.0\Bootcamp.runtimeconfig.json
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\bin\Debug\net7.0\Bootcamp.dll
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\bin\Debug\net7.0\Bootcamp.pdb
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.csproj.AssemblyReference.cache
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.AssemblyInfoInputs.cache
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.AssemblyInfo.cs
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.csproj.CoreCompileInputs.cache
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.dll
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\refint\Bootcamp.dll
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.pdb
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\Bootcamp.genruntimeconfig.cache
+D:\Proyectos\Visual Studio\Bootcamp\Bootcamp\obj\Debug\net7.0\ref\Bootcamp.dll
